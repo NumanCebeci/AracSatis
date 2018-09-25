@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\bin\Debug\ProLab2-4.exe
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\bin\Debug\ProLab2-4.pdb
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2-4.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2_4.AracSistemi.resources
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2_4.Form1.resources
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2_4.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2-4.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2-4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2-4.exe
+C:\Users\lenovo\Desktop\ProLab\ProLab2-4\ProLab2-4\ProLab2-4\obj\Debug\ProLab2-4.pdb
